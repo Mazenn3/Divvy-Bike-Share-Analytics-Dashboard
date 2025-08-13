@@ -3,7 +3,7 @@
 ## 📋 Overview
 An interactive Power BI dashboard analyzing Chicago's Divvy bike-sharing system data from March 2021. This project transforms 205,691 bike trip records into actionable insights for urban mobility optimization.
 
-![Dashboard Preview](Bikeshare Windy City.png)
+![Dashboard Preview](BikeshareWindyCity.png)
 
 ## ✨ Features
 - **Real-time Analytics**: Interactive dashboard with cross-filtering capabilities
