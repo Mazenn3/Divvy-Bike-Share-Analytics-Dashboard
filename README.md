@@ -17,7 +17,6 @@ An interactive Power BI dashboard analyzing Chicago's Divvy bike-sharing system 
 - **Microsoft Power BI Desktop** - Dashboard development
 - **Power Query (M Language)** - Data transformation and cleaning
 - **DAX (Data Analysis Expressions)** - Advanced calculations and measures
-- **Power BI Service** - Dashboard publishing and sharing
 
 ## 📊 Key Insights Discovered
 - **Peak Usage**: 5 PM shows 4x more rides than morning hours (20K rides)
